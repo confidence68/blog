@@ -37,7 +37,7 @@ issue地址：请点击 [请点击!](https://github.com/issues )
 
   * 保持文章原文，不作修改。
   
-  * 明确署名，即至少注明 作者：haorooms前端博客 以及文章的原始链接。
+  * 明确署名，即至少注明 作者：[haorooms前端博客](http://www.haorooms.com/) 以及文章的原始链接。
 
 如需商业合作，请直接[联系作者](http://www.haorooms.com/ )。博客右侧联系方式！
 
