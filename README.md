@@ -21,11 +21,11 @@ issue地址：请点击 [请点击!](https://github.com/issues )
 英文名字Aaron，现就职于克而瑞。
 
 
-[CSDN博客!](http://blog.csdn.net/confidence68 )
+[CSDN博客](http://blog.csdn.net/confidence68 )
 
-[新浪微博!](http://weibo.com/babygeili )
+[新浪微博](http://weibo.com/babygeili )
 
-[知乎!](http://www.zhihu.com/people/haorooms )
+[知乎](http://www.zhihu.com/people/haorooms )
 
-[昵图网!](http://hi.nipic.com/confidence68/ )
+[昵图网](http://hi.nipic.com/confidence68/ )
 
