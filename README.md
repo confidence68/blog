@@ -18,7 +18,7 @@ issue地址：请点击 [请点击!](https://github.com/issues )
 
 #关于作者
 
-英文名字Aaron，现就职于克而瑞。
+英文名字Aaron，目前就职于上海某公司。
 
 
 [CSDN博客](http://blog.csdn.net/confidence68 )
@@ -28,4 +28,15 @@ issue地址：请点击 [请点击!](https://github.com/issues )
 [知乎](http://www.zhihu.com/people/haorooms )
 
 [昵图网](http://hi.nipic.com/confidence68/ )
+
+#版权声明
+
+本博客的所有内容，在非商业合作的情况下免费转载
+
+但是不许注明
+
+*保持文章原文，不作修改。
+*明确署名，即至少注明 作者：haorooms前端博客 以及文章的原始链接。
+
+如需商业合作，请直接[联系作者](http://www.haorooms.com/ )。博客右侧联系方式！
 
