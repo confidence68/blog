@@ -1,0 +1,11 @@
+{
+	"name":"haoroomsnode",
+	"verson":"v1.0.0",
+	"description":"miaoshi",
+	"dependencies":{
+		"socket.io":"~0.9.6",
+		"mime":"~1.2.7"
+	}
+
+
+}
